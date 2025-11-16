@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["John Doe"],
+    "category": ["AI", "Machine Learning"],
+    "description": "A deep dive into the latest advancements in AI and what to expect in the coming years."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["Jane Smith", "Peter Jones"],
+    "category": ["Web Development", "Scalability"],
+    "description": "Learn how to design and build web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in the Modern World",
+    "speakers": ["Mary Johnson"],
+    "category": ["Cybersecurity", "Security"],
+    "description": "An overview of the current cybersecurity landscape and how to protect your organization from threats."
+  },
+  {
+    "title": "The Rise of Serverless Computing",
+    "speakers": ["David Williams"],
+    "category": ["Serverless", "Cloud Computing"],
+    "description": "Discover the benefits of serverless computing and how to leverage it to build cost-effective and scalable applications."
+  },
+  {
+    "title": "Introduction to Quantum Computing",
+    "speakers": ["Emily Brown", "Michael Davis"],
+    "category": ["Quantum Computing", "Physics"],
+    "description": "A beginner-friendly introduction to the mind-bending world of quantum computing."
+  },
+  {
+    "title": "The Art of UI/UX Design",
+    "speakers": ["Jessica Garcia"],
+    "category": ["UI/UX", "Design"],
+    "description": "Learn the principles of good UI/UX design and how to create user-friendly and engaging interfaces."
+  }
+]
